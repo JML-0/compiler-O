@@ -8,7 +8,7 @@ void foo(){
         print_str("Nombre a deviner : ");
         v = scanf();
     }
-    /* Le while fonctionne bien cepandant la valeur v n'est pas modifiée */
+    /* Le while fonctionne bien cependant la valeur v n'est pas modifiée */
 }
 
 void main(){
